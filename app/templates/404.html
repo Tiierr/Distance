@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths hb-loaded" style=""><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui"><meta http-equiv="Cache-control" content="no-cache"><meta name="apple-mobile-web-app-title" content="Aquest Digital Factory">
+  <link rel="shortcut icon" href="{{ url_for('static', filename='images/404.ico') }}" type="image/x-icon">
+  <link rel="icon" href="{{ url_for('static', filename='images/404.ico') }}" type="image/x-icon">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="../static/js/modernizr.min.js"></script>
+    <style>html, * {-webkit-user-select:text!important; -moz-user-select:text!important;}</style>
+    <script src="../static/js/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.1.min.js"><\/script>')</script><script src="../static/js/jquery-1.11.1.min.js"></script>
+    <script>
+    $(function(){
+
+        setTimeout(function(){
+            $("#header-services").addClass("animated");
+        },800);
+         setTimeout(function(){
+            $(".play-link").addClass("on");
+        },2500);
+
+        setTimeout(function(){
+            $('.buttons-header').addClass("active");
+        },2800);
+
+    });
+    </script>
+    <style>
+    .nav{display:none;}
+    .logo-container{
+        left:0;
+    }
+    </style>
+<title>
+
+</title></head>
+<body huaban_collector_injected="true">
+    <header id="header">
+    </header>
+
+    <section id="main">
+        <div id="content_404">
+            <header id="header-services" class="animated">
+                <div class="hero">
+                    <div class="hero2"></div>
+                    <div class="hero1"></div>
+                </div>
+                <div class="text-cover">
+                    <h3>404 ERROR PAGE</h3>
+                    <h2>
+                        <span><small>lost</small></span>
+                        <span><small> your way </small><em>?</em></span>
+                    </h2>
+                    <a class="no-link play-link on" href="{{ url_for('main.index') }}">Go to Homepage</a>
+                </div>
+            </header>
+        </div>
+    </section>
+</body>
+</html>
