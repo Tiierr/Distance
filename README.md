@@ -95,7 +95,7 @@ See [LICENSE][license].
 [badge-build]: https://img.shields.io/badge/build-passing-brightgreen.svg
 [badge-version]: https://img.shields.io/badge/version-0.1.0-blue.svg
 [badge-license]: https://img.shields.io/badge/license-GPL-blue.svg
-[badge-python]: https://img.shields.io/badge/pythin-3.5%2C%203.6-blue.svg
+[badge-python]: https://img.shields.io/badge/python-3.5%2C%203.6-blue.svg
 
 [home]: http://thefurthestdistance.xyz/
 [googlemap]: http://thefurthestdistance.xyz/googlemap
