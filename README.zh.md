@@ -1,4 +1,4 @@
-# Distance(远方) - 世界上遥远的距离
+# Distance(远方) - 世界上最遥远的距离
 
 ![][badge-author] ![][badge-build] ![][badge-version] ![][badge-python] ![][badge-license]
 
