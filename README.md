@@ -53,7 +53,7 @@ If you want to query the longitude and latitude corresponding geographic locatio
 
 If you want to see the appearance of the distance, just using Google street view. For example:
 
-![](http://ww1.sinaimg.cn/large/647dc635ly1fegs4mq2dgg20i90jpb2g.gif)
+![](https://ws1.sinaimg.cn/large/647dc635ly1fehpw0b20yg20sc0mlx6t.gif)
 
 The quality of the picture is a bit poor, but actual effect is very clear. so, just try it.
 
@@ -91,8 +91,8 @@ See [LICENSE][license].
 
 [readme-zh]: https://github.com/RayYu03/Distance/blob/master/README.zh.md
 
-[badge-author]:https://img.shields.io/badge/Author-RayYu03-blue.svg
-[badge-build]:https://img.shields.io/badge/build-passing-brightgreen.svg
+[badge-author]: https://img.shields.io/badge/Author-RayYu03-blue.svg
+[badge-build]: https://img.shields.io/badge/build-passing-brightgreen.svg
 [badge-version]: https://img.shields.io/badge/version-0.1.0-blue.svg
 [badge-license]: https://img.shields.io/badge/license-GPL-blue.svg
 [badge-python]: https://img.shields.io/badge/pythin-3.5%2C%203.6-blue.svg
@@ -101,7 +101,7 @@ See [LICENSE][license].
 [googlemap]: http://thefurthestdistance.xyz/googlemap
 [latlng]: http://thefurthestdistance.xyz/latlng
 
-[contributors]: https://github.com/RayYu03/Distance/blob/master/CONTRIBUTORS.md
+[contributors]: https://github.com/RayYu03/Distance/blob/master/CONTRIBUTIONS.md
 
 [deploy-doc]: https://github.com/RayYu03/Distance/blob/master/deploy.md
 

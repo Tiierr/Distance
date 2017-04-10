@@ -57,7 +57,6 @@ Distance(远方) 是一个找到某地以及对应的对跖(zhí)点(antipodes)�
 
 ![](http://ww1.sinaimg.cn/large/647dc635ly1fegs4mq2dgg20i90jpb2g.gif)
 
-
 动图录制的有点糊，实际效果还是很清晰的，大家可以自己试着去探索一下。
 
 ## 部署
@@ -93,8 +92,8 @@ Distance 系统的所有代码均基于 GPL 协议开源。
 
 [readme-en]: https://github.com/RayYu03/Distance/blob/master/README.md
 
-[badge-author]:https://img.shields.io/badge/Author-RayYu03-blue.svg
-[badge-build]:https://img.shields.io/badge/build-passing-brightgreen.svg
+[badge-author]: https://img.shields.io/badge/Author-RayYu03-blue.svg
+[badge-build]: https://img.shields.io/badge/build-passing-brightgreen.svg
 [badge-version]: https://img.shields.io/badge/version-0.1.0-blue.svg
 [badge-license]: https://img.shields.io/badge/license-GPL-blue.svg
 [badge-python]: https://img.shields.io/badge/pythin-3.5%2C%203.6-blue.svg
@@ -107,7 +106,7 @@ Distance 系统的所有代码均基于 GPL 协议开源。
 [latlng]: http://thefurthestdistance.xyz/latlng
 
 
-[contributors]: https://github.com/RayYu03/Distance/blob/master/CONTRIBUTORS.md
+[contributors]: https://github.com/RayYu03/Distance/blob/master/CONTRIBUTIONS.md
 
 [deploy-doc]: https://github.com/RayYu03/Distance/blob/master/deploy.zh.md
 
